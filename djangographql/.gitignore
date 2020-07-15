@@ -1,2 +1,3 @@
 #migrations directory
 app/migrations
+./db.sqlite3
