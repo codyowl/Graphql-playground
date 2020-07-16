@@ -123,5 +123,5 @@ STATIC_URL = '/static/'
 
 # Schema location of graphene
 GRAPHENE = {
-    'SCHEMA': 'django_root.schema.schema'
+    'SCHEMA': 'djangographql.schema.schema'
 }
